@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# @description test stack-tools modules
+# @description test manage-tools modules
 # @import download/downloadGosu
 # @import download/downloadHyperfine
 # @import download/downloadPacker

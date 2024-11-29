@@ -1,4 +1,4 @@
-# [stack-tools](https://github.com/escapace/stack-tools)
+# [manage-tools](https://github.com/escapace/manage-tools)
 
 [![license](https://img.shields.io/badge/license-Mozilla%20Public%20License%20Version%202.0-blue.svg)](<>)
 
@@ -26,7 +26,7 @@ process.
 
 | Environment Variable |                        Default                       | Description  |
 | -------------------- | :--------------------------------------------------: | ------------ |
-| `GOSU_VERSION`       | […](/scripts/modules/stack-tools/stackToolsDefaults) | gosu version |
+| `GOSU_VERSION`       | […](/scripts/modules/manage-tools/stackToolsDefaults) | gosu version |
 
 &nbsp;
 
@@ -36,7 +36,7 @@ Download and verify [tini](https://github.com/krallin/tini) - spawns a single ch
 
 | Environment Variable |                        Default                       | Description  |
 | -------------------- | :--------------------------------------------------: | ------------ |
-| `TINI_VERSION`       | […](/scripts/modules/stack-tools/stackToolsDefaults) | tini version |
+| `TINI_VERSION`       | […](/scripts/modules/manage-tools/stackToolsDefaults) | tini version |
 
 &nbsp;
 
@@ -46,7 +46,7 @@ Download and verify HashiCorp’s [packer](https://www.packer.io) - a tool for c
 
 | Environment Variable |                        Default                       | Description    |
 | -------------------- | :--------------------------------------------------: | -------------- |
-| `PACKER_VERSION`     | […](/scripts/modules/stack-tools/stackToolsDefaults) | packer version |
+| `PACKER_VERSION`     | […](/scripts/modules/manage-tools/stackToolsDefaults) | packer version |
 
 &nbsp;
 
@@ -57,7 +57,7 @@ and predictably create, change, and improve infrastructure.
 
 | Environment Variable |                        Default                       | Description       |
 | -------------------- | :--------------------------------------------------: | ----------------- |
-| `TERRAFORM_VERSION`  | […](/scripts/modules/stack-tools/stackToolsDefaults) | terraform version |
+| `TERRAFORM_VERSION`  | […](/scripts/modules/manage-tools/stackToolsDefaults) | terraform version |
 
 &nbsp;
 
@@ -67,7 +67,7 @@ Download and verify [restic](https://github.com/restic/restic) - fast, secure, e
 
 | Environment Variable |                        Default                       | Description    |
 | -------------------- | :--------------------------------------------------: | -------------- |
-| `RESTIC_VERSION`     | […](/scripts/modules/stack-tools/stackToolsDefaults) | restic version |
+| `RESTIC_VERSION`     | […](/scripts/modules/manage-tools/stackToolsDefaults) | restic version |
 
 &nbsp;
 
